@@ -93,7 +93,7 @@ KioThumb/
 ## Autor
 
 Feito por **Daniel Perin**  
-Canal: [https://www.youtube.com/@KioHype]
+Canal: https://www.youtube.com/@KioHype
 
 ---
 
